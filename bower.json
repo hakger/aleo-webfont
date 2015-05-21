@@ -1,16 +1,16 @@
 {
   "name": "aleo-webfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/hakger/aleo-webfont",
   "authors": [
     "Hubert Kowalski <h.kowalski@hakger.pl>"
   ],
   "description": "Aleo Webfont optimized for Bower, gulp-flatten and wiredep",
   "main": [
-      "./css/aleo-webfont.css",
-      "./less/aleo-webfont.less",
-      "./sass/aleo-webfont.scss",
-      "./fonts/*"
+    "./css/aleo-webfont.css",
+    "./less/aleo-webfont.less",
+    "./sass/aleo-webfont.scss",
+    "./fonts/*"
   ],
   "keywords": [
     "aleo",
@@ -26,7 +26,10 @@
     "slab-serif",
     "slab"
   ],
-  "license": ["OFL-1.1", "MIT"],
+  "license": [
+    "OFL-1.1",
+    "MIT"
+  ],
   "ignore": [
     "**/.*"
   ]

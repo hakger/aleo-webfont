@@ -17,6 +17,9 @@ dependencies into right places
 
 ### Aleo ###
 
+* **Version**
+Version 1.2.2
+
 * **Description**
 Aleo is a contemporary typeface designed by Alessio Laiso as the slab serif
 companion to the Lato font by Łukasz Dziedzic. Aleo has semi-rounded details
@@ -39,6 +42,11 @@ Alessio Laiso
 
 * **Vendor URL**
 https://www.behance.net/alessiolaiso
+
+* **Webfont SIL OFL Compliance**
+Font files in /fonts are taken directly form Author's repository, no
+modiffication, subclassing or anything that would break Functional Equivalence
+was done to font files, thus allowing this package to use name Aleo.
 
 
 ## Development Info ##

@@ -9,7 +9,7 @@
   "main": [
     "./css/aleo-webfont.css",
     "./less/aleo-webfont.less",
-    "./sass/aleo-webfont.scss",
+    "./scss/aleo-webfont.scss",
     "./fonts/*"
   ],
   "keywords": [
